@@ -120,4 +120,4 @@ while True:
                     st.metric("Total Volume (24h)", "N/A")
 
     # --- 5. THE REFRESH LOOP ---
-    time.sleep(2)
+    time.sleep(10)
